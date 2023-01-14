@@ -1,0 +1,17 @@
+
+
+
+Associação  -> Usa
+            -> relação é fraca, funciona uma idependente da outra
+
+
+Agregação   -> Tem
+            -> Uma utiliza a outra dentro da própria classe
+            -> mas existem idependente uma da outra
+
+Composição  -> É dono
+            -> Uma pertence a outra, quando a dona e deletada a outra é deletada junto
+
+
+Herança -> É 
+        -> herdar tudo que é mais de cima e faz coisas mais especificas 
